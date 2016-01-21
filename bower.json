@@ -1,0 +1,22 @@
+{
+  "name": "pipeline",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tyson Gern <pair+tgern@pivotal.io>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tygern/pipeline",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#1.5.0-rc.1",
+    "angular-ui-router": "~0.2.15"
+  }
+}
