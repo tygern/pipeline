@@ -1,9 +1,7 @@
 {
-  "noImplicitAny": true,
-  "outFile": "app.js",
-  "module": "commonjs",
-  "sourceMap": true,
-  "files": [
-    "bower_components/angular/angular.js"
-  ]
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    "sortOutput": true
+  }
 }

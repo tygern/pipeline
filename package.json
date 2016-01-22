@@ -3,9 +3,12 @@
   "version": "0.0.1",
   "devDependencies": {
     "bower": "^1.7.2",
+    "browser-sync": "^2.11.1",
     "del": "^2.2.0",
     "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
     "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
     "gulp-typescript": "^2.10.0",
     "wiredep": "^3.0.0"
   }
